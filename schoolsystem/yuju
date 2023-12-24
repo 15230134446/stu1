@@ -1,0 +1,4 @@
+CREATE DATABASE students;
+INSERT INTO stu(xm,xb,csrq,rxrq,xxmc,zy,zh,dh,ss,fdy,mm,gly)
+VALUES ('李紫文','男',20020912,20230901,'郑州工商学院','网络工程',230806130426,18637220439,'4号楼515宿舍','李文',123456,1)
+
